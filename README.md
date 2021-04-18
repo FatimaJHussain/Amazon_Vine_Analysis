@@ -15,6 +15,7 @@ Number of vine reviews with 5 star ratings are 222 and non-vine reviews with 5 s
 Figure-2: Vine 5 Stars Reviews![Vine 5 Stars Reviews](https://github.com/FatimaJHussain/Amazon_Vine_Analysis/blob/main/5star.png)
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+Percentage of 5-star reviews for the unpaid reviews is 47 % and for paid reviews is 36.2 %, as shown in Figure-3.
 
 Figure-3: Percetage of 5 Stars Reviews![Percetage of 5 Stars Reviews](https://github.com/FatimaJHussain/Amazon_Vine_Analysis/blob/main/percentage.png)
 
