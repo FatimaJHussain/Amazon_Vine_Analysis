@@ -4,6 +4,8 @@ We pick up one of the datasets from "Amazon Review Datasets" and use PySpark to 
 # Results
 ### How many Vine reviews and non-Vine reviews were there?
 
+Number of 
+
 Figure-1: Vine Reviews![Vine Reviews](https://github.com/FatimaJHussain/Amazon_Vine_Analysis/blob/main/reviews.png)
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
