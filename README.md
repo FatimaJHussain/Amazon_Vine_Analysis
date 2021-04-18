@@ -3,7 +3,7 @@
 We pick up one of the datasets from "Amazon Review Datasets" and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. We  use PySpark to determine if there is any bias toward favorable reviews from Vine members in the dataset. 
 # Results
 ### How many Vine reviews and non-Vine reviews were there?
-
+Figure-1: Vine Reviews![Vine Reviews](https://github.com/FatimaJHussain/Amazon_Vine_Analysis/blob/main/reviews.png)
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
